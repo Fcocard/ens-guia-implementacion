@@ -1,12 +1,12 @@
 # 1. RESUMEN EJECUTIVO
 
-## Descripcion breve del proyecto blockchain
+## Descripción breve del proyecto blockchain
 <!-- Contenido a desarrollar -->
 
-## Alcance del analisis de cumplimiento ENS
+## Alcance del análisis de cumplimiento ENS
 <!-- Contenido a desarrollar -->
 
-## Nivel de categorizacion determinado
+## Nivel de categorización determinado
 <!-- Contenido a desarrollar -->
 
 ## Principales conclusiones sobre cumplimiento
